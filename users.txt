@@ -1,0 +1,6 @@
+empName,username,password,position,hourlyPayRate
+John Doe,johndoe,rockstar123,Manager,18.50
+Jane Smith,janesmith,goat123,Cashier,12.75
+Mike Johnson,mikej,horse456,Manager,20.00
+Emily Williams,emilyw,dog321,Cashier,15.25
+David Brown,davidb,cat123,Cashier,13.50
